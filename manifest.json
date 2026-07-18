@@ -1,0 +1,10 @@
+{
+  "name": "MGI Telecom",
+  "short_name": "MGI",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#ff6600",
+  "orientation": "portrait",
+  "icons": []
+}
