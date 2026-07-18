@@ -29,3 +29,10 @@ const year = document.getElementById("year");
 if (year) {
   year.innerHTML = new Date().getFullYear();
 }
+// Hide Loader
+window.addEventListener("load", function () {
+    const loader = document.getElementById("loader");
+    if (loader) {
+        loader.style.display = "none";
+    }
+});
